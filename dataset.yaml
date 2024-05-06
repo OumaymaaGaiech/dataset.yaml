@@ -1,0 +1,8 @@
+# dataset.yaml
+train: /kaggle/input/pf-dataset/PocketFin_dataset/train/images
+val: /kaggle/input/pf-dataset/PocketFin_dataset/val/images
+test: /kaggle/input/pf-dataset/PocketFin_dataset/test/images
+
+nc: 3  
+names: ["total", "date", "time"]  
+
